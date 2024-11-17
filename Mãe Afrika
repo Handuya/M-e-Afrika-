@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mãe Afrika</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000; /* Fundo preto */
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #008000; /* Verde */
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: #ff0000; /* Vermelho */
+        }
+        ul li {
+            color: #008000; /* Verde */
+        }
+        footer {
+            background-color: #ff0000; /* Vermelho */
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        a {
+            color: #008000; /* Links em verde */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mãe Afrika</h1>
+        <p>União, Amor e Sabedoria para o povo africano</p>
+    </header>
+    <section>
+        <h2>Sobre Nós</h2>
+        <p>Mãe Afrika é uma crença baseada nos valores de união, respeito e amor pelo continente africano. Nossa missão é promover a cultura, espiritualidade e sabedoria ancestral de África.</p>
+        <h2>Nossos Valores</h2>
+        <ul>
+            <li>Amor pela África</li>
+            <li>Respeito pela tradição</li>
+            <li>Educação e sabedoria</li>
+            <li>Comunidade e irmandade</li>
+        </ul>
+        <h2>Participe</h2>
+        <p>Junte-se a nós nesta jornada para honrar e valorizar nossas raízes. <a href="#">Entre em contato</a> e saiba mais sobre nossos encontros e atividades.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Mãe Afrika - Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
